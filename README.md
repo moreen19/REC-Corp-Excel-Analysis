@@ -2,8 +2,10 @@
 
 An analysis of the company's data inorder to answer key KPI questions that would help the business gain insights into the business.
 Using a Dashboard to highlight the insights gained from the data.
+
 for example
-1) Is there any trend in the sales of all four products during certain months?
+
+1)Out of all four products, which product has seen the highest sales in all the given years?
 
   ![image](https://github.com/moreen19/REC-Corp-Excel-Analysis/assets/97608840/d98678ad-e24d-4fb1-a90d-76b68134e5b2)
 
