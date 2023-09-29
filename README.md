@@ -15,3 +15,11 @@ you to analyze this data and suggest whether his idea would result in a massive 
 company.
 
 ![image](https://github.com/moreen19/REC-Corp-Excel-Analysis/assets/97608840/9377944e-8e7c-4b68-aa1e-261d2a99876b)
+
+
+
+![image](https://github.com/moreen19/REC-Corp-Excel-Analysis/assets/97608840/31dda05a-10c2-49dc-8740-747d89cd96ea)
+
+
+
+
